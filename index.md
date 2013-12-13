@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!! Keep Practice! Do not be scared of Failure.
-tagline: Supporting tagline
+title:  Keep Practice! Do not be scared of Failure.
+tagline: My icon
 ---
 {% include JB/setup %}
 
