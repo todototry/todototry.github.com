@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: Hello World!! Keep Practice! Do not be scared of Failure.
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
