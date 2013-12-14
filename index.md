@@ -5,7 +5,7 @@ tagline: LOVE AND FAITH
 ---
 {% include JB/setup %}
 
-This is ToDoToTry. THIS BLOG which powered by [Jekyll](http://jekyllrb.com/) is used to log my techniques study. Most of the posts/articles on this blog will be writen in English. I also have a [Chinese blog](http://www.cnblogs.com/ToDoToTry/)
+This is ToDoToTry. THIS BLOG which powered by [Jekyll](http://jekyllrb.com/) is used to log my techniques study. Most of the posts/articles on this blog will be writen in English. I also have a [Chinese blog中文博客](http://www.cnblogs.com/ToDoToTry/)
 
 
 ## About me
