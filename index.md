@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  KEEP PRACTICE! Do NOT BE SCARED OF FAILURE!
+title:  Keep Practice! Do NOT Be Scared of Failure!
 tagline: LOVE AND FAITH
 ---
 {% include JB/setup %}
@@ -18,12 +18,12 @@ I have learned several programming languages. Such as `C`,`C++`,`C#`,`Java`,`Rub
 ## Contents Hold in This Blog will be
 
 	1.Python programming skills.
-	-Java programming skills.
-	-Machine Learning Algorithm.
-	-Statistics and Mathmatics.
-	-Web Application technology.
-	-Good Books Recommendation.
-	-Excellent Tools for work and programming.
+	2.Java programming skills.
+	3.Machine Learning Algorithm.
+	4.Statistics and Mathmatics.
+	5.Web Application technology.
+	6.Good Books Recommendation.
+	7.Excellent Tools for work and programming.
 
 
 By the way, this blog is powered by [Jekyll](http://jekyllrb.com/) hold on github freely.  Here's a sample "posts list" on how to repost by using git.
