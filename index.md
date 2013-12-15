@@ -10,12 +10,12 @@ This is ToDoToTry. THIS BLOG which powered by [Jekyll](http://jekyllrb.com/) is 
 
 ## About me
 
-A Man, study and work in Shanghai China, major in Computer Science, Love collecting and reading phychology and history books, riding bicycle and playing ping-pong.
+Study and work in Shanghai China, major in Computer Science, Love collecting and reading phychology and history books, riding bicycle and playing ping-pong.
 
 I have learned several programming languages. Such as `C`,`C++`,`C#`,`Java`,`Ruby`,`Python`, `matlab` and `R`. in which Python and Java are my favorite languages. And I am interested in Machine Learning, Data Mining, NLP, application architechure and Web app development. I also follow with interest user experience design and trying new apps on smart phones. So...
 
 
-## Contents Hold in This Blog will be
+## Contents Held on This Blog Will Be
 
 	1.Python programming skills.
 	2.Java programming skills.
